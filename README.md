@@ -1,1 +1,1 @@
-# architecture-standart
+#  architecture-standart
