@@ -1,0 +1,46 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.2.2 Chrome/134.0.6998.178 Electron/35.1.2 Safari/537.36" version="26.2.2">
+  <diagram name="Страница — 1" id="x-h79tfaLvUZsE_rTHGj">
+    <mxGraphModel dx="1177" dy="788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="BGBmrzdERx0tMVOVCKRQ-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BGBmrzdERx0tMVOVCKRQ-2" target="BGBmrzdERx0tMVOVCKRQ-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BGBmrzdERx0tMVOVCKRQ-2" value="&lt;span style=&quot;text-align: left;&quot;&gt;Сайт: PHP + React.js&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BGBmrzdERx0tMVOVCKRQ-3" value="&lt;span style=&quot;text-align: left;&quot;&gt;Интернет-банк: ASP.NET MVC + MS SQ&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BGBmrzdERx0tMVOVCKRQ-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BGBmrzdERx0tMVOVCKRQ-4" target="BGBmrzdERx0tMVOVCKRQ-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BGBmrzdERx0tMVOVCKRQ-4" value="&lt;span style=&quot;text-align: left;&quot;&gt;АБС: Delphi-клиент + Oracle (PL/SQL&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BGBmrzdERx0tMVOVCKRQ-5" value="&lt;span style=&quot;text-align: left;&quot;&gt;Система кол-центра: React + Java + PostgreSQL&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="485" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BGBmrzdERx0tMVOVCKRQ-6" value="&lt;span style=&quot;text-align: left;&quot;&gt;Система партнёрского кол-центра&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BGBmrzdERx0tMVOVCKRQ-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BGBmrzdERx0tMVOVCKRQ-9" target="BGBmrzdERx0tMVOVCKRQ-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BGBmrzdERx0tMVOVCKRQ-9" value="&lt;span style=&quot;text-align: left;&quot;&gt;SMS-шлюз&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BGBmrzdERx0tMVOVCKRQ-10" value="&lt;span style=&quot;text-align: left;&quot;&gt;Телеком-оператор&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BGBmrzdERx0tMVOVCKRQ-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.504;entryY=-0.036;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="BGBmrzdERx0tMVOVCKRQ-3" target="BGBmrzdERx0tMVOVCKRQ-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BGBmrzdERx0tMVOVCKRQ-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.497;entryY=-0.036;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="BGBmrzdERx0tMVOVCKRQ-5" target="BGBmrzdERx0tMVOVCKRQ-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
